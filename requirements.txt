@@ -1,0 +1,12 @@
+streamlit
+torch
+torchvision
+transformers
+scikit-learn
+joblib
+pandas
+numpy
+Pillow
+gdown
+sentencepiece
+xgboost
